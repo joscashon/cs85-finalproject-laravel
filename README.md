@@ -70,3 +70,6 @@ Below are screenshots demonstrating the main features of the app:
 
 ### AI Running Coach
 ![AI Running Coach](screenshots/coach.png)
+
+https://github.com/user-attachments/assets/208334cd-166f-4904-821e-28fea0c90259
+
